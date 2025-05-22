@@ -1,4 +1,4 @@
-# Redirector
+# Redirector™
 
 A website that serves as a redirector to comic sites, displaying thumbnails and information in a grid layout.
 Or your sins or whatever, all the better for those who see but don't believe.
