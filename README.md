@@ -1,6 +1,9 @@
-# Comic Redirector
+# Redirector™
 
-A website that serves as a redirector to comic sites, displaying thumbnails and information in a grid layout. This project includes two versions:
+A website that serves as a redirector to comic sites, displaying thumbnails and information in a grid layout.
+Or your sins or whatever, all the better for those who see but don't believe.
+
+This project includes two versions:
 
 1. **Vercel Version**: Optimized for deployment on Vercel with serverless functions
 2. **Local Version**: Can be run on a local machine without external dependencies
